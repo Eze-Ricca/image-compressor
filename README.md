@@ -5,7 +5,7 @@
 ## Características
 
 - **Redimensionamiento de imágenes**: Redimensiona las imágenes a un ancho máximo de 1920 píxeles.
-- **Optimización de múltiples formatos**: Soporta JPEG, PNG, GIF, SVG, WebP y TIFF.
+- **Optimización de múltiples formatos**: Soporta JPEG, PNG, GIF, SVG y WebP.
 - **Facilidad de uso**: Simple de configurar y ejecutar.
 - **Automatización**: Ideal para integrarse en el flujo de trabajo de desarrollo.
 
@@ -20,4 +20,5 @@
    ```bash
    git clone https://github.com/tu-usuario/image-compressor.git
    cd image-compressor
+   npm i
    ```
